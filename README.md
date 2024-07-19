@@ -5,7 +5,8 @@ This project was done as a capstone project for The Data Incubator Fellowship pr
 
 Researchers spend approximately 23% of their total work time reading around 22 scholarly articles per month. The reasons for reading these articles vary, including staying updated with research progress in their field, generating new research ideas, and garnering support for their research views and results.
 
- How to Find Scholarly Articles to Read
+ How to Find Scholarly Articles to Read:
+ 
  Traditional Methods:
 1. Searching using keywords
 2. Scanning current and previous issues of top journals in their field
